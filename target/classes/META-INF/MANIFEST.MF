@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: kilobrain
+Build-Jdk: 9.0.4
+Class-Path: mysql/mysql-connector-java/5.1.45/mysql-connector-java-5.1
+ .45.jar
+Main-Class: fully.qualified.Main
+Created-By: Maven Integration for Eclipse
+
